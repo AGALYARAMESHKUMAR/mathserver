@@ -125,11 +125,11 @@ urlpatterns = [
     path('',views.rectarea,name="areaofrectangleroot")
 ]
 ```
-## OUT PUT :
+## OUTPUT :
 
 ![OUTPUT](./OUT.PNG)
 
-## OUT PUT :
+## Home page :
 ![Home page](./home.png)
 
 ## Result
