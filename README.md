@@ -130,7 +130,7 @@ urlpatterns = [
 ![OUTPUT](./out55.png)
 
 ## Home page :
-![Home page](./name.png)
+![Home page](./cal.png)
 
 ## Result
 the program for executed successfully
